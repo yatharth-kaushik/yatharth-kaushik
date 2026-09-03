@@ -33,18 +33,6 @@ Git • GitHub • VS Code • Linux
 
 ---
 
-## 📌 Featured Projects
-
-### Project 1
-Short description of what it does.
-
-### Project 2
-Short description of what it does.
-
-### Project 3
-Short description of what it does.
-
----
 
 ## 📚 Currently Learning
 
