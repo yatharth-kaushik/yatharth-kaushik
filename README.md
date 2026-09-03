@@ -41,14 +41,5 @@ Git • GitHub • VS Code • Linux
 - AI / LLM Applications
 - System Design
 
----
 
-## 📊 GitHub
 
-[GitHub statistics]
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn • Portfolio • Email
