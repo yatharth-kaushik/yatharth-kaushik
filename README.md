@@ -82,25 +82,6 @@ I'm a B.Tech Computer Science student interested in software development, AI, an
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yatharth-kaushik&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharth-kaushik&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
