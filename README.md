@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yatharth-kaushik&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/yatharth-kaushik?label=Followers&style=flat-square&logo=github&color=181717" alt="followers" />
 <img src="https://img.shields.io/github/stars/yatharth-kaushik?label=Stars&style=flat-square&logo=github&color=yellow" alt="stars" />
 
