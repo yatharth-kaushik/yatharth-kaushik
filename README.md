@@ -70,8 +70,7 @@ I'm a B.Tech Computer Science student interested in software development, AI, an
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yatharth-kaushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth-kaushik&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
 
 <br/><br/>
 
